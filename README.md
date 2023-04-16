@@ -5,12 +5,11 @@ Este es un proyecto de aplicación web desarrollado en el framework Flask de Pyt
 🚀 Instalación y configuración
 
 Clona este repositorio a tu ordenador:
-bash
-Copy code
+```
 git clone https://github.com/Durruuti/Python_Web_Flask.git
+```
 Entra en el directorio del proyecto:
-bash
-Copy code
+
 cd Python_Web_Flask
 Crea y activa un entorno virtual:
 bash
