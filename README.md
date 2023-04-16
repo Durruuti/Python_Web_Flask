@@ -1,4 +1,4 @@
-#Durruti_P
+#Durruti_Python_Web_Flask#
 ¡Bienvenidos al proyecto Python_Web_Flask! 🐍🌐
 
 Este es un proyecto de aplicación web desarrollado en el framework Flask de Python. La aplicación ofrece un servicio de registro y autenticación de usuarios, y permite a los usuarios acceder a un panel de control donde pueden gestionar su perfil y publicar nuevos mensajes en la sección de noticias.
