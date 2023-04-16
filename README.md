@@ -42,3 +42,9 @@ flask run
 ```
 Abre tu navegador y accede a la dirección http://localhost:5000
 ¡Listo! Ahora puedes explorar la aplicación y comenzar a personalizarla a tu gusto. Si tienes alguna pregunta o sugerencia, no dudes en contaqctarme o crear un issue en este repositorio. 😊
+
+## Agradecimientos
+
+Este repositorio fue creado gracias al tutorial de Tech With Tim en YouTube. Puedes encontrar el tutorial en el siguiente enlace:
+
+- [Tutorial de Flask y SQL de Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI&ab_channel=TechWithTim)
